@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/file/d/1Ve0-LaBfleHW4jHA8zxshTm6ET9kDwSj/view?usp=sharing"/>
+<img src="https://drive.google.com/file/d/1Ve0-LaBfleHW4jHA8zxshTm6ET9kDwSj/view?usp=sharingjpg"/>
 
 
 <h1 align="center">Hi 👋, I'm Vishwajeet Shekhawat</h1>
